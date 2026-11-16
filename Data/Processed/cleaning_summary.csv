@@ -1,0 +1,7 @@
+Metric,Before Cleaning,After Cleaning
+Total Records,"133,720","133,720"
+Total Missing Values,0,0
+Exact Duplicate Rows,0,0
+Invalid Dates,0,0
+Unique Commodities,106,104
+Unique Markets,95,95

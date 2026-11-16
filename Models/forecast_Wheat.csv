@@ -1,0 +1,7 @@
+Month,Forecasted_Price,Commodity,Model
+2026-06-01,2475.43,Wheat,Gradient Boosting
+2026-07-01,2482.74,Wheat,Gradient Boosting
+2026-08-01,2482.36,Wheat,Gradient Boosting
+2026-09-01,2513.06,Wheat,Gradient Boosting
+2026-10-01,2703.27,Wheat,Gradient Boosting
+2026-11-01,2738.61,Wheat,Gradient Boosting

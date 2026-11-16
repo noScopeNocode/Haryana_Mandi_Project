@@ -1,0 +1,21 @@
+Metric,Value
+Total Rows,133720
+Total Columns,12
+Exact Duplicate Rows,0
+Business Duplicate Records,1490
+Total Missing Values,0
+Invalid / Unparseable Dates,54200
+Negative Min Prices,0
+Negative Modal Prices,0
+Negative Max Prices,0
+Zero Min Prices,0
+Zero Modal Prices,0
+Zero Max Prices,13
+Min Price > Max Price,13
+Modal Price < Min Price,0
+Modal Price > Max Price,13
+Unique Commodities,106
+Unique Districts,6
+Unique Markets,95
+Date Coverage Start,2022-08-13
+Date Coverage End,2026-07-31

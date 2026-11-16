@@ -1,0 +1,4 @@
+Hypothesis,Test Applied,F / H Statistic,p-value,Effect Size,Status
+H1 — Market price difference,ANOVA + Kruskal-Wallis,0.94,0.4523,η²=0.0141 (Small),Not Supported
+H2 — Seasonal price difference,ANOVA + Kruskal-Wallis,10.17,0.0000,η²=0.0123 (Small),Supported
+H3 — Forecast vs Baseline,RMSE comparison (Notebook 4),TBD,TBD,TBD,Pending — Notebook 4

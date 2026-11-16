@@ -1,0 +1,5 @@
+Model,CV_RMSE_Mean,CV_RMSE_Std
+Random Forest,72.05,37.83
+XGBoost,75.85,57.66
+Gradient Boosting,82.61,47.51
+Linear Regression,154.98,44.59
